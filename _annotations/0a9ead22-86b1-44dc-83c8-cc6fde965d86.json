@@ -1,0 +1,33 @@
+---
+canvas: "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "df",
+            "purpose": "commenting",
+            "creator": {
+                "id": "micahchoo",
+                "name": "Micah Alex"
+            },
+            "created": "2024-06-23T03:42:33.204Z",
+            "modified": "2024-06-23T03:42:33.227Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"84.15629577636719,15.48418140411377 111.04987335205078,28.52349090576172 89.4535140991211,63.5666389465332 87.41612243652344,105.12944030761719 56.4058723449707,63.5666389465332 72.74515533447266,24.856185913085938 98.01055908203125,34.22819137573242\"></polygon></svg>"
+        }
+    },
+    "id": "0a9ead22-86b1-44dc-83c8-cc6fde965d86.json",
+    "motivation": "commenting"
+}
