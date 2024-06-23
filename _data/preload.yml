@@ -1,2 +1,9 @@
-images: []
+images:
+- added: '2024-06-23 03:44:50.274390'
+  iiif: true
+  thumbnail: https://tools.wmflabs.org/zoomviewer/proxy.php?iiif=The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg/full/120,/0/default.jpg
+  title: ''
+  url: https://tools.wmflabs.org/zoomviewer/proxy.php?iiif=The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg/info.json
+  user: Micah Alex
 settings: {}
+version: '2.1'
